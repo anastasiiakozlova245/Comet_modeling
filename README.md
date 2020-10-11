@@ -1,1 +1,1 @@
-Task: to model the trajectory of a comet, going round the Sun in the Earth's gravity field
+**Task**: to model and visualize the trajectory of a comet, going round the Sun in the Earth's gravity field. To develop mathematical model of this physical system based on main fundamental physical laws.
